@@ -9,6 +9,12 @@ comments: true
 
 # 自学教程/资料分享
 
+大学时间那么长，总要找点东西去浪费（消耗）自己的时间。
+
+前面提到了 Problem-Based Learning，以解决问题为导向进行学习，未来是终身学习的时代，不存在大学毕业之后就不学习了。
+
+知识面一多之后，很难面面俱到，要学会拎清楚重点，剩下的知识只需要在用到的时候会查阅工具 书就行。厉害的工程师不是可以背下来多少语法标准和手册资料，而是在有全局观的同时能有能力 解决核心问题。知识分为两种，一种是你知道的，一种是你知道可以在哪里找到的。
+
 ## 不必一定跟着这些学，仅个人根据个人经历的推荐
 
 1.[51单片机及所需基本知识（C，数电，模电）](https://www.bilibili.com/video/BV1Mb411e7re/?spm_id_from=333.999.0.0)  
@@ -18,7 +24,8 @@ comments: true
 5.[PID入门（了解这个控制算法的基本概念）](https://www.bilibili.com/video/BV1B54y1V7hp/?spm_id_from=333.999.0.0)  
 6.[OpenMv入门（简单会用）](https://www.bilibili.com/video/BV1b14y1q7ip/?spm_id_from=333.999.0.0)  
 7.[使用Vscode的插件（PlatformIO）开发Esp32](https://www.bilibili.com/video/BV1tv411w74d/?spm_id_from=333.999.0.0&vd_source=db07d314ac48ea1cd9657c125adbaeae)  
-8.[使用hal库开发Esp32](https://www.bilibili.com/video/BV12v4y1y7uV/?spm_id_from=333.999.0.0&vd_source=db07d314ac48ea1cd9657c125adbaeae) 9.[蓝桥杯51板(单片机赛道)](https://www.bilibili.com/video/BV1TR4y1k7iz/?spm_id_from=333.337.search-card.all.click)  
+8.[使用hal库开发Stm32](https://www.bilibili.com/video/BV12v4y1y7uV/?spm_id_from=333.999.0.0&vd_source=db07d314ac48ea1cd9657c125adbaeae)  
+9.[蓝桥杯51板(单片机赛道)](https://www.bilibili.com/video/BV1TR4y1k7iz/?spm_id_from=333.337.search-card.all.click)  
 10.[蓝桥杯32板（嵌入式赛道）](https://www.bilibili.com/video/BV1GhHrenEGt/?spm_id_from=333.337.search-card.all.click)
 
 ## 一些网站/文章的分享
