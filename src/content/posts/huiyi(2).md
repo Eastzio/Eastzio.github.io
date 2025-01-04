@@ -1,6 +1,6 @@
 ---
 title: 【星火计划#2】第一次会议/培训
-date: 2025-1-4
+date: 2025-01-04
 summary: 提前打个会议的草稿
 category: 会议
 tags: [寒假, 星火计划, 培训, 会议]
@@ -16,9 +16,3 @@ comments: true
 # # (一些网站/文章的分享)
 
 1.[知乎收藏的一些文章（学习路线/职业规划）](https://www.zhihu.com/collection/936130174?page=1) 2.[计算机专业学习路线（难度高，学成后收获也大）](https://hackway.org/docs/cs/intro) 3.[全栈(计算机、电子、机械)的入门指南（可以速成，但教程也有不少坑）](https://maindraster.github.io/zero2hero/) 4.[机器人方向的学习路线（写作时间较早，但仍有许多借鉴意义）](https://www.robook.org/blog/ys) 5.[电子类专业的学习路线(更偏向于电子方向)](https://blog.csdn.net/physicsexpert/article/details/129309886?spm=1001.2014.3001.5501) 6.[CS自学指南（偏计算机方向，有更多的细节内容）](https://csdiy.wiki/)
-
-# 比赛类型
-
-# 具体需要准备什么
-
-# 我打算怎么给你们准备
