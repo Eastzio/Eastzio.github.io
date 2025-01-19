@@ -30,7 +30,8 @@ comments: true
 7.[使用Vscode的插件（PlatformIO）开发Esp32](https://www.bilibili.com/video/BV1tv411w74d/?spm_id_from=333.999.0.0&vd_source=db07d314ac48ea1cd9657c125adbaeae)  
 8.[使用hal库开发Stm32](https://www.bilibili.com/video/BV12v4y1y7uV/?spm_id_from=333.999.0.0&vd_source=db07d314ac48ea1cd9657c125adbaeae)  
 9.[蓝桥杯51板(单片机赛道)](https://www.bilibili.com/video/BV1TR4y1k7iz/?spm_id_from=333.337.search-card.all.click)  
-10.[蓝桥杯32板（嵌入式赛道）](https://www.bilibili.com/video/BV1GhHrenEGt/?spm_id_from=333.337.search-card.all.click) 11.[基本的PCB绘制（嘉立创），与配套的电子方面的知识](https://www.bilibili.com/video/BV1At421h7Ui/?spm_id_from=333.1387.favlist.content.click)
+10.[蓝桥杯32板（嵌入式赛道）](https://www.bilibili.com/video/BV1GhHrenEGt/?spm_id_from=333.337.search-card.all.click)  
+11.[基本的PCB绘制（嘉立创），与配套的电子方面的知识](https://www.bilibili.com/video/BV1At421h7Ui/?spm_id_from=333.1387.favlist.content.click)
 
 ## 一些网站/文章的分享
 
